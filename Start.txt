@@ -1,2 +1,4 @@
 Test 132 
 dsa
+
+dopisanie czegoœ do drugiego commita
