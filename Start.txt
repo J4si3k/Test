@@ -2,3 +2,5 @@ Test 132
 dsa
 
 dopisanie czegoœ do drugiego commita
+
+dopisane na branchu work
